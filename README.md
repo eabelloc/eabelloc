@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 </br>
 <div align="center">
- 💻 I’m currently doing a Bootcamp for Web Development in Neoland.
+ 💻 I’ve recently finished a Bootcamp for Web Development in Neoland.
 <p>Right now I'm learning to code in these languages: 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
